@@ -12,6 +12,11 @@ J’explore la blockchain, les systèmes de preuve, l’IA et l’automatisation
 
 **Contribution proposée : [iden3/snarkjs #635](https://github.com/iden3/snarkjs/pull/635)** — correction de cinq commandes du tutoriel pour retrouver les bons fichiers d’entrée, le WASM et la clé FFLONK. PR ouverte à sa publication le 10 septembre 2026 ; consulter le lien pour son statut actuel.
 
+## Hyperliquid / HyperEVM
+
+- **[hyper-evm-lib](https://github.com/JulienKervarrec/hyper-evm-lib/tree/main/docs/fr)** — six chapitres sur CoreWriter, les précompiles, l’identité HyperCore, les conversions et les ponts d’actifs.
+- **Valeur pratique** — checklist d’intégration et distinction entre action EVM émise, traitement HyperCore et état observé.
+
 ## Base : du wallet à l’infrastructure L2
 
 | Pour commencer | Ce que le parcours explique |

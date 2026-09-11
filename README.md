@@ -1,3 +1,9 @@
+## Parcours français
+
+Travaux récents : [AirScript / STARK](https://github.com/JulienKervarrec/air-script/tree/next/docs/fr), [engagements polynomiaux / SNARK](https://github.com/JulienKervarrec/poly-commit/tree/master/docs/fr), [Microsoft SEAL / FHE](https://github.com/JulienKervarrec/SEAL/tree/main/docs/fr), [architecture Base](https://github.com/JulienKervarrec/base/tree/main/docs/fr) et [données Hyperliquid](https://github.com/JulienKervarrec/historical_data/tree/master/docs/fr).
+
+Chaque parcours est fondé sur une lecture des sources, documente les hypothèses et limites de sécurité, et renvoie vers les mécanismes vérifiables du dépôt.
+
 # Julien Kervarrec
 
 ### Comprendre les protocoles. Documenter les mécanismes. Contribuer à l’open source.

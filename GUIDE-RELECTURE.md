@@ -1,3 +1,3 @@
 # Guide de relecture
 
-Relire le texte contre les fichiers cites, verifier les liens et supprimer les affirmations non prouvees. Une relecture finale doit aussi chercher les doublons et les termes ambigus.
+Relire le texte contre les fichiers cités, vérifier les liens et supprimer les affirmations non prouvées. Une relecture finale doit aussi chercher les doublons et les termes ambigus.

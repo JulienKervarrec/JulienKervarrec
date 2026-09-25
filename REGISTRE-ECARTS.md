@@ -1,3 +1,3 @@
-# Registre des ecarts
+# Registre des écarts
 
-Un ecart indique une difference entre commits publies et commits reconnus. Le noter avec les URLs, les branches et la date permet une analyse ulterieure. Un ecart ne doit pas etre transforme en nouveau commit sans comprendre sa cause.
+Un écart indique une différence entre commits publiés et commits reconnus. Le noter avec les URLs, les branches et la date permet une analyse ultérieure. Un écart ne doit pas être transformé en nouveau commit sans comprendre sa cause.

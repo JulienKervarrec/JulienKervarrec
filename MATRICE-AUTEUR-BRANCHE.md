@@ -1,3 +1,3 @@
 # Matrice auteur et branche
 
-La branche utilisee, la branche par defaut et l identite GitHub de l auteur sont trois informations distinctes. Les relever separement permet d expliquer un ecart entre un commit visible et un commit credite. Toute anomalie bloque le comptage Guild jusqu a clarification.
+La branche utilisée, la branche par défaut et l’identité GitHub de l’auteur sont trois informations distinctes. Les relever séparément permet d’expliquer un écart entre un commit visible et un commit crédité. Toute anomalie bloque le comptage Guild jusqu’à clarification.

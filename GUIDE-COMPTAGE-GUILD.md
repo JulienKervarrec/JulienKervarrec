@@ -1,7 +1,7 @@
 # Guide de comptage Guild
 
-Ce document distingue les commits presents dans un historique Git, les commits attribues a un profil GitHub et les commits reconnus par Guild. Un depot public original est privilegie ; un fork public doit etre marque comme incertain. La branche par defaut et l identite de l auteur sont verifiees avant publication.
+Ce document distingue les commits présents dans un historique Git, les commits attribués à un profil GitHub et les commits reconnus par Guild. Un dépôt public original est privilégié ; un fork public doit être marqué comme incertain. La branche par défaut et l’identité de l’auteur sont vérifiées avant publication.
 
-## Regle
+## Règle
 
-Le registre local ne constitue jamais une preuve du compteur Guild. La preuve est une lecture publique du compteur apres indexation.
+Le registre local ne constitue jamais une preuve du compteur Guild. La preuve est une lecture publique du compteur après indexation.

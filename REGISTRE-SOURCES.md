@@ -1,3 +1,3 @@
 # Registre des sources
 
-Le registre rassemble les depots, revisions, licences et documents consultes. Il distingue source amont, fork de travail et depot original. Cette separation est necessaire pour expliquer le comptage Guild.
+Le registre rassemble les dépôts, révisions, licences et documents consultés. Il distingue source amont, fork de travail et dépôt original. Cette séparation est nécessaire pour expliquer le comptage Guild.

@@ -1,3 +1,3 @@
-# Guide de tracabilite
+# Guide de traçabilité
 
-Associer chaque affirmation a un fichier, une fonction ou un evenement lorsque cela est possible. Conserver aussi la revision du depot et le lien public. Cette discipline facilite la verification par un lecteur externe.
+Associer chaque affirmation à un fichier, une fonction ou un événement lorsque cela est possible. Conserver aussi la révision du dépôt et le lien public. Cette discipline facilite la vérification par un lecteur externe.
